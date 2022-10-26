@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Silvia</h1>
-<h2 align="center">A passionate front-end developer from Spain</h2>
+<h2 align="center">A passionate Front-end Developer from Spain</h2>
 
-- 🌱 I’m currently studying **Web development at Glovo Bootcamp 'Women in Tech' taught by KeepCoding**
+- 🌱 I’m currently studying **Web Development at Glovo Bootcamp 'Women in Tech' taught by KeepCoding**
 
 - 📫 How to reach me **slvgutierrezrodriguez@gmail.com**
 
