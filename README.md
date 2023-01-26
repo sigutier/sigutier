@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Silvia</h1>
-<h2 align="center">Junior Full Stack Developer from Spain</h2>
+<h2 align="center">Quality Assurance Tester from Seville, Spain</h2>
 
-- 🌱 I’m currently studying **Full Stack Web Development at Glovo Bootcamp 'Women in Tech' taught by KeepCoding**
+- 🌱 I’m currently studying **Web Development**
 
 - 📫 How to reach me **slvgutierrezrodriguez@gmail.com**
 
