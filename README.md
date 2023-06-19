@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Silvia</h1>
-<h2 align="center">Quality Assurance Tester from Seville, Spain</h2>
+<h2 align="center">I am a software development student from Seville</h2>
 
-- 🌱 I’m currently studying **Web Development**
+- 🌱 I’m currently studying **Web Development and QA Automation Testing**
 
 - 📫 How to reach me **slvgutierrezrodriguez@gmail.com**
 
